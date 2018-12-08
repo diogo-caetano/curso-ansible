@@ -12,3 +12,6 @@ Vagrant.configure("2") do |config|
   end
 
 end
+
+
+#TESTE DE COMMIT PELO INTELIJ#
